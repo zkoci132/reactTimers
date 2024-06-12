@@ -1,0 +1,10 @@
+.headerInput {
+  background-color: #111227;
+  color: #82a0b9;
+}
+
+.acceptButton,
+.cancelButton {
+  background-color: #2e457d;
+  color: #82a0b9;
+}

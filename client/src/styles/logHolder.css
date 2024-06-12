@@ -1,0 +1,43 @@
+.logHolder {
+  color: #82a0b9;
+  width: 80%;
+  border: 3px solid #82a0b9;
+  padding: 5px;
+}
+
+.logHolderSelected {
+  width: 80%;
+  border: 5px solid green;
+  padding: 5px;
+}
+
+.logContentHolder {
+  display: flex;
+  justify-content: space-between;
+}
+
+.buttons {
+  display: flex;
+  justify-content: flex-end;
+  gap: 25%;
+  width: 25%;
+}
+
+.startStop {
+  display: flex;
+  gap: 50%;
+}
+
+.playButtonIcon {
+  height: 100%;
+  width: 100%;
+  background: none;
+  background-color: transparent;
+  -webkit-appearance: none;
+}
+
+.startButton,
+.stopButton {
+  background: none;
+  color: #82a0b9;
+}

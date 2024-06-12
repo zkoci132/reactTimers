@@ -1,0 +1,11 @@
+.addDataButtonHolder {
+  grid-area: 1 / 1 / 2 / 2;
+  display: flex;
+  max-height: 100%;
+  margin-bottom: 10px;
+}
+
+.addIcon {
+  font-size: 3rem;
+  color: #2e457d;
+}

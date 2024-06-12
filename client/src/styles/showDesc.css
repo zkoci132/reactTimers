@@ -1,0 +1,38 @@
+.textHolder {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  height: 80%;
+  width: 100%;
+}
+
+.hidedesc {
+  display: none;
+  width: 0%;
+}
+
+.showdesc {
+  background-color: #111227;
+  color: #82a0b9;
+}
+
+.hidebutton,
+.hideExportbutton {
+  display: none;
+  width: 0%;
+}
+
+.descriptionForm {
+  margin-top: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.showExportbutton,
+.showbutton {
+  background-color: #2e457d;
+  color: #82a0b9;
+  box-sizing: border-box;
+  border: 1px solid #82a0b9;
+}

@@ -1,0 +1,12 @@
+.hideModalHeader {
+  display: none;
+}
+
+.showModalHeader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  color: #82a0b9;
+  gap: 5px;
+}
